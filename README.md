@@ -1,2 +1,3 @@
-# fitnes-day
-Aplicativo para controle de atividades fisicas.
+### Fitnes Day
+
+Aplicativo para controle de atividades fisicas, indicado para personal trainer.
